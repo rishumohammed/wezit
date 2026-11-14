@@ -1,0 +1,6 @@
+{
+  "name": "WEZIT",
+  "description": "WEZIT multi-company digital business card manager with per-company website themes and one-tap WhatsApp sharing from call logs and contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

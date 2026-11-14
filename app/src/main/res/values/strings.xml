@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">WEZIT</string>
+    <string name="nav_quick_share">Quick Share</string>
+    <string name="nav_my_card">My Card</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="last_called_badge">LAST CALLED NUMBER</string>
+    <string name="send_card_whatsapp">Send Card on WhatsApp</string>
+    <string name="send_whatsapp_short">WhatsApp</string>
+    <string name="tab_recent_calls">Recent Calls</string>
+    <string name="tab_contacts">Contacts</string>
+    <string name="search_placeholder">Search name or number…</string>
+    <string name="manual_number_label">Quick send to any number</string>
+    <string name="manual_number_placeholder">Enter phone number</string>
+    <string name="country_code_label">Code</string>
+    <string name="refresh_cd">Refresh call logs and contacts</string>
+    <string name="edit_greeting">Edit Greeting</string>
+    <string name="edit_card">Edit Card</string>
+    <string name="share_card">Share Card</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="cancel">Cancel</string>
+    <string name="grant_access">Grant Access</string>
+    <string name="open_settings">Open Settings</string>
+
+    <string name="perm_call_log_title">Access Recent Call Logs</string>
+    <string name="perm_call_log_desc">Allow call log access to surface your last called number at the top for 1-click WhatsApp card sharing.</string>
+    <string name="perm_contacts_title">Access Device Contacts</string>
+    <string name="perm_contacts_desc">Allow contacts access to search and send your digital business card directly to any saved contact on WhatsApp.</string>
+
+    <string name="empty_calls_title">No recent calls found</string>
+    <string name="empty_calls_desc">Your recent dialed, incoming, and missed calls will appear here for one-tap WhatsApp sharing.</string>
+    <string name="empty_contacts_title">No matching contacts</string>
+    <string name="empty_contacts_desc">Try a different name or phone number, or use Quick Send above.</string>
+
+    <string name="error_no_whatsapp">WhatsApp is not installed on this device.</string>
+    <string name="error_invalid_number">Please enter a valid phone number.</string>
+    <string name="msg_link_copied">Card link copied to clipboard</string>
+    <string name="msg_card_saved">Business card updated</string>
+    <string name="msg_settings_saved">Sharing preferences saved</string>
+</resources>
